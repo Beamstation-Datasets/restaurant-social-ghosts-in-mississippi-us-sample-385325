@@ -1,12 +1,12 @@
 {
-  "export_job_id": "39fbb449-eac9-4c0a-b08b-abb1a4212827",
+  "export_job_id": "64d87382-52be-4e06-97c5-94f6b968ea63",
   "id_short": 385325,
-  "published_at": "2026-04-11T19:52:15Z",
+  "published_at": "2026-04-19T07:51:28Z",
   "repo_name": "restaurant-social-ghosts-in-mississippi-us-sample-385325",
   "sample_asset_name": "beamstation_385325_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/385325/beamstation_385325_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "b94ab628e3d991dfa32ac16f0a1693249134c6c930989787cedce703bfea6f46",
-  "sample_size_bytes": 27739,
-  "total_records": 41
+  "sample_records": 3,
+  "sample_sha256": "95be9b952aa64f9a749f6906a32f14a5a0087ac421aaa36b9e70d31528056f54",
+  "sample_size_bytes": 24679,
+  "total_records": 38
 }
