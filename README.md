@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Mississippi, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `385325` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 38 records |
-| Free sample size | 3 records (7.89%) |
-| Last export | 2026-04-15T09:16:56.992552+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-22T16:32:26.551157+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-mississippi-us-sample-385325/releases/download/sample-latest/beamstation_385325_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
