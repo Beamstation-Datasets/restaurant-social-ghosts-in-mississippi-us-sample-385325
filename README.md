@@ -9,9 +9,9 @@
 | Dataset ID | `385325` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-22T16:32:26.551157+00:00 |
+| Full dataset size | 18 records |
+| Free sample size | 1 records (5.56%) |
+| Last export | 2026-04-29T16:36:40.945965+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-mississippi-us-sample-385325/releases/download/sample-latest/beamstation_385325_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
